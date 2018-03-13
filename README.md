@@ -1,2 +1,2 @@
 # rubyForum
-It's super broken. :mad:
+It's super broken. ಠ_ಠ
