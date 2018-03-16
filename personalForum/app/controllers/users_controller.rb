@@ -86,4 +86,3 @@ before_action :logged_in_user, only: [:index, :edit, :update, :destroy]
      def admin_user
       redirect_to(root_url) unless current_user.admin?
     end
-end
